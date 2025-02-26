@@ -4,7 +4,7 @@ const Auth = () => {
   return (
     <main className={classes.auth}>
       <section>
-        <form>
+        <form>d
           <div className={classes.control}>
             <label htmlFor='email'>이메일</label>
             <input type='email' id='email' />
